@@ -1,0 +1,3 @@
+configura conta no git:
+git config --global user.name "Z400"
+git config --global user.email "matheusgoldship@gmail.com"
