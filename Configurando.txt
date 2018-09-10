@@ -1,3 +1,4 @@
 configura conta no git:
 git config --global user.name "Z400"
 git config --global user.email "matheusgoldship@gmail.com"
+git checkout head -- nome do arquivo       (RETORNA AO ESTADO DO ULTIMO COMMIT)
